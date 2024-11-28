@@ -16,7 +16,7 @@ Welcome to the Bingo Game! This is a simple console-based game where players can
 2. **Running the Game**:
    - Clone this repository to your local machine.
    - Open a terminal or command prompt and navigate to the directory containing the cloned repository.
-   - Run the command `python bingo_game.py`.
+   - Run the command `cd bingo_game` `python game.py`.
 3. **Gameplay**:
    - Enter the number of users playing the game.
    - Players take turns marking numbers on their Bingo cards until a player achieves Bingo.
