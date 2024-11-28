@@ -1,4 +1,10 @@
 # Bingo Game
+A terminal-based Bingo game.
+
+## Installation
+```bash 
+   pip install bingo-game
+```
 
 ## Introduction
 Welcome to the Bingo Game! This is a simple console-based game where players can enjoy a classic game of Bingo. The game is implemented in Python and utilizes the Colorama library for colorizing the console output.
