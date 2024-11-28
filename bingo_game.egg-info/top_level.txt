@@ -1,1 +1,1 @@
-bingo-game
+bingo_game

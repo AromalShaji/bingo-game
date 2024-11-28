@@ -2,8 +2,8 @@ LICENSE
 README.md
 pyproject.toml
 setup.py
-bingo-game/__init__.py
-bingo-game/game.py
+bingo_game/__init__.py
+bingo_game/game.py
 bingo_game.egg-info/PKG-INFO
 bingo_game.egg-info/SOURCES.txt
 bingo_game.egg-info/dependency_links.txt
