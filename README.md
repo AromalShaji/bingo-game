@@ -10,7 +10,7 @@ A terminal-based Bingo game.
 Welcome to the Bingo Game! This is a simple console-based game where players can enjoy a classic game of Bingo. The game is implemented in Python and utilizes the Colorama library for colorizing the console output.
 
 ## How to Play
-1. **Setup**: 
+1. **Setup (after cloning)**: 
    - Ensure you have Python 3 installed on your system.
    - Install the Colorama library by running `pip install colorama`.
 2. **Running the Game**:
