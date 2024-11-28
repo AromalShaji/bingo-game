@@ -1,0 +1,2 @@
+[console_scripts]
+bingo-game = bingo_game.game:main
